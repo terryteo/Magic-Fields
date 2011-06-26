@@ -16,7 +16,7 @@ Follow the following steps to install this plugin.
 1.	Download plugin to the **/wp-content/plugins/** folder.
 2.	Activate the plugin through the 'Plugins' menu in WordPress.
 
-## Changelog ##
+## Changelog ## test edit
 
 ###1.3###
 
